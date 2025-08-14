@@ -1,0 +1,815 @@
+[
+  /* ---------- AI TOOLS ---------- */
+  {
+    "name": "AI Text Summarizer",
+    "description": "Summarize articles instantly using AI.",
+    "category": "AI",
+    "tags": ["summarize", "AI", "text"],
+    "icon": "🤖",
+    "url": "https://example.com/ai-text-summarizer"
+  },
+  {
+    "name": "AI Content Writer",
+    "description": "Generate blog posts, ads, and social media content.",
+    "category": "AI",
+    "tags": ["writing", "content", "AI"],
+    "icon": "✍️",
+    "url": "https://example.com/ai-content-writer"
+  },
+  {
+    "name": "AI Code Generator",
+    "description": "Write code in multiple languages from prompts.",
+    "category": "AI",
+    "tags": ["code", "AI", "developer"],
+    "icon": "💻",
+    "url": "https://example.com/ai-code-generator"
+  },
+  {
+    "name": "AI Chatbot",
+    "description": "Smart AI chatbot for Q&A and support.",
+    "category": "AI",
+    "tags": ["chat", "AI", "bot"],
+    "icon": "💬",
+    "url": "https://example.com/ai-chatbot"
+  },
+  {
+    "name": "AI Voice Generator",
+    "description": "Convert text into natural-sounding voices.",
+    "category": "AI",
+    "tags": ["voice", "AI", "text-to-speech"],
+    "icon": "🎙️",
+    "url": "https://example.com/ai-voice-generator"
+  },
+
+  /* ---------- DESIGN TOOLS ---------- */
+  {
+    "name": "Background Remover",
+    "description": "Remove image background instantly.",
+    "category": "Design",
+    "tags": ["remove", "image", "edit"],
+    "icon": "📸",
+    "url": "https://example.com/background-remover"
+  },
+  {
+    "name": "AI Logo Maker",
+    "description": "Create stunning logos in seconds.",
+    "category": "Design",
+    "tags": ["logo", "branding", "AI"],
+    "icon": "🎨",
+    "url": "https://example.com/ai-logo-maker"
+  },
+  {
+    "name": "Color Palette Generator",
+    "description": "Generate perfect color combinations.",
+    "category": "Design",
+    "tags": ["color", "palette", "design"],
+    "icon": "🎨",
+    "url": "https://example.com/color-palette-generator"
+  },
+  {
+    "name": "3D Model Viewer",
+    "description": "View and edit 3D models online.",
+    "category": "Design",
+    "tags": ["3D", "model", "viewer"],
+    "icon": "📦",
+    "url": "https://example.com/3d-model-viewer"
+  },
+  {
+    "name": "Font Pair Finder",
+    "description": "Discover perfect font pairings.",
+    "category": "Design",
+    "tags": ["font", "design", "typography"],
+    "icon": "🔤",
+    "url": "https://example.com/font-pair-finder"
+  },
+
+  /* ---------- MARKETING TOOLS ---------- */
+  {
+    "name": "SEO Analyzer",
+    "description": "Check SEO score and improve rankings.",
+    "category": "Marketing",
+    "tags": ["SEO", "analysis", "website"],
+    "icon": "📈",
+    "url": "https://example.com/seo-analyzer"
+  },
+  {
+    "name": "Social Media Post Maker",
+    "description": "Design posts for all social media platforms.",
+    "category": "Marketing",
+    "tags": ["social media", "design", "marketing"],
+    "icon": "📱",
+    "url": "https://example.com/social-media-post-maker"
+  },
+  {
+    "name": "Hashtag Generator",
+    "description": "Generate trending hashtags for your content.",
+    "category": "Marketing",
+    "tags": ["hashtag", "marketing", "social media"],
+    "icon": "🏷️",
+    "url": "https://example.com/hashtag-generator"
+  },
+  {
+    "name": "Ad Copy Generator",
+    "description": "Create high-converting ad copies.",
+    "category": "Marketing",
+    "tags": ["ads", "copywriting", "AI"],
+    "icon": "📝",
+    "url": "https://example.com/ad-copy-generator"
+  },
+  {
+    "name": "Email Subject Line Tester",
+    "description": "Optimize subject lines for better open rates.",
+    "category": "Marketing",
+    "tags": ["email", "marketing", "test"],
+    "icon": "✉️",
+    "url": "https://example.com/email-subject-line-tester"
+  },
+
+  /* ---------- TEXT TOOLS ---------- */
+  {
+    "name": "Markdown to HTML",
+    "description": "Convert Markdown text to HTML code.",
+    "category": "Text",
+    "tags": ["markdown", "html", "converter"],
+    "icon": "🔄",
+    "url": "https://example.com/markdown-to-html"
+  },
+  {
+    "name": "JSON Formatter",
+    "description": "Format and validate JSON data.",
+    "category": "Text",
+    "tags": ["json", "formatter", "developer"],
+    "icon": "📑",
+    "url": "https://example.com/json-formatter"
+  },
+  {
+    "name": "Lorem Ipsum Generator",
+    "description": "Generate placeholder text for your designs.",
+    "category": "Text",
+    "tags": ["lorem ipsum", "text", "generator"],
+    "icon": "📜",
+    "url": "https://example.com/lorem-ipsum-generator"
+  },
+  {
+    "name": "Case Converter",
+    "description": "Convert text to different cases (e.g., uppercase, lowercase).",
+    "category": "Text",
+    "tags": ["case", "converter", "text"],
+    "icon": "🔠",
+    "url": "https://example.com/case-converter"
+  },
+  {
+    "name": "Word Counter",
+    "description": "Count words, characters, and sentences in your text.",
+    "category": "Text",
+    "tags": ["word", "counter", "text"],
+    "icon": "🔢",
+    "url": "https://example.com/word-counter"
+  },
+  {
+    "name": "Text Reverser",
+    "description": "Reverse any text, string, or sentence.",
+    "category": "Text",
+    "tags": ["text", "reverse", "fun"],
+    "icon": "↩️",
+    "url": "https://example.com/text-reverser"
+  },
+  {
+    "name": "Morse Code Translator",
+    "description": "Translate text to and from Morse code.",
+    "category": "Text",
+    "tags": ["morse code", "translator", "text"],
+    "icon": "⚫",
+    "url": "https://example.com/morse-code-translator"
+  },
+  {
+    "name": "Text to Slug",
+    "description": "Convert text into a URL-friendly slug.",
+    "category": "Text",
+    "tags": ["slug", "url", "seo"],
+    "icon": "🔗",
+    "url": "https://example.com/text-to-slug"
+  },
+  {
+    "name": "Readability Checker",
+    "description": "Check the readability score of your text.",
+    "category": "Text",
+    "tags": ["readability", "writing", "text"],
+    "icon": "🧐",
+    "url": "https://example.com/readability-checker"
+  },
+  {
+    "name": "Grammar Checker",
+    "description": "Check your text for grammar and spelling errors.",
+    "category": "Text",
+    "tags": ["grammar", "checker", "writing"],
+    "icon": "✅",
+    "url": "https://example.com/grammar-checker"
+  },
+  {
+    "name": "Text Encryptor",
+    "description": "Encrypt and decrypt text using various algorithms.",
+    "category": "Text",
+    "tags": ["encrypt", "decrypt", "security"],
+    "icon": "🔒",
+    "url": "https://example.com/text-encryptor"
+  },
+  {
+    "name": "Random String Generator",
+    "description": "Generate a random string of specified length and characters.",
+    "category": "Text",
+    "tags": ["random", "string", "generator"],
+    "icon": "🎲",
+    "url": "https://example.com/random-string-generator"
+  },
+  {
+    "name": "Text Compare",
+    "description": "Compare two text documents and highlight the differences.",
+    "category": "Text",
+    "tags": ["compare", "diff", "text"],
+    "icon": "🔄",
+    "url": "https://example.com/text-compare"
+  },
+  {
+    "name": "Fake Text Generator",
+    "description": "Generate fake text for various purposes.",
+    "category": "Text",
+    "tags": ["fake", "text", "generator"],
+    "icon": "👻",
+    "url": "https://example.com/fake-text-generator"
+  },
+  {
+    "name": "Binary Code Translator",
+    "description": "Translate text to binary code and vice versa.",
+    "category": "Text",
+    "tags": ["binary", "translator", "developer"],
+    "icon": "0️⃣",
+    "url": "https://example.com/binary-code-translator"
+  },
+  {
+    "name": "Text Repeater",
+    "description": "Repeat a piece of text a specified number of times.",
+    "category": "Text",
+    "tags": ["text", "repeater", "fun"],
+    "icon": "🔁",
+    "url": "https://example.com/text-repeater"
+  },
+  {
+    "name": "Handwriting Text Generator",
+    "description": "Convert your text into a handwriting style.",
+    "category": "Text",
+    "tags": ["handwriting", "text", "generator"],
+    "icon": "✍️",
+    "url": "https://example.com/handwriting-text-generator"
+  },
+  {
+    "name": "Invisible Character",
+    "description": "Generate an invisible character to copy and paste.",
+    "category": "Text",
+    "tags": ["invisible", "character", "text"],
+    "icon": "👻",
+    "url": "https://example.com/invisible-character"
+  },
+  {
+    "name": "Text to Speech",
+    "description": "Convert written text into spoken words.",
+    "category": "Text",
+    "tags": ["text-to-speech", "audio", "voice"],
+    "icon": "🗣️",
+    "url": "https://example.com/text-to-speech"
+  },
+  {
+    "name": "Code Formatter",
+    "description": "Format your code in various programming languages.",
+    "category": "Text",
+    "tags": ["code", "formatter", "developer"],
+    "icon": "💻",
+    "url": "https://example.com/code-formatter"
+  },
+
+  /* ---------- MEDIA TOOLS ---------- */
+  {
+    "name": "Image Compressor",
+    "description": "Compress and optimize your images without losing quality.",
+    "category": "Media",
+    "tags": ["image", "compressor", "optimizer"],
+    "icon": "🖼️",
+    "url": "https://example.com/image-compressor"
+  },
+  {
+    "name": "Video to GIF Converter",
+    "description": "Convert your videos into animated GIFs.",
+    "category": "Media",
+    "tags": ["video", "gif", "converter"],
+    "icon": "🔄",
+    "url": "https://example.com/video-to-gif-converter"
+  },
+  {
+    "name": "Image Resizer",
+    "description": "Resize your images to any dimension.",
+    "category": "Media",
+    "tags": ["image", "resizer", "edit"],
+    "icon": "📏",
+    "url": "https://example.com/image-resizer"
+  },
+  {
+    "name": "Audio Trimmer",
+    "description": "Cut and trim your audio files online.",
+    "category": "Media",
+    "tags": ["audio", "trimmer", "edit"],
+    "icon": "✂️",
+    "url": "https://example.com/audio-trimmer"
+  },
+  {
+    "name": "YouTube Thumbnail Downloader",
+    "description": "Download YouTube video thumbnails in high quality.",
+    "category": "Media",
+    "tags": ["youtube", "thumbnail", "downloader"],
+    "icon": "🖼️",
+    "url": "https://example.com/youtube-thumbnail-downloader"
+  },
+  {
+    "name": "Image to Text Converter",
+    "description": "Extract text from images using OCR.",
+    "category": "Media",
+    "tags": ["ocr", "image-to-text", "converter"],
+    "icon": "📄",
+    "url": "https://example.com/image-to-text-converter"
+  },
+  {
+    "name": "Video Downloader",
+    "description": "Download videos from various online platforms.",
+    "category": "Media",
+    "tags": ["video", "downloader", "media"],
+    "icon": "⬇️",
+    "url": "https://example.com/video-downloader"
+  },
+  {
+    "name": "Meme Generator",
+    "description": "Create your own custom memes.",
+    "category": "Media",
+    "tags": ["meme", "generator", "fun"],
+    "icon": "😂",
+    "url": "https://example.com/meme-generator"
+  },
+  {
+    "name": "Image Cropper",
+    "description": "Crop images to the perfect size.",
+    "category": "Media",
+    "tags": ["image", "cropper", "edit"],
+    "icon": "✂️",
+    "url": "https://example.com/image-cropper"
+  },
+  {
+    "name": "Audio Converter",
+    "description": "Convert audio files to different formats (e.g., MP3, WAV).",
+    "category": "Media",
+    "tags": ["audio", "converter", "media"],
+    "icon": "🔄",
+    "url": "https://example.com/audio-converter"
+  },
+  {
+    "name": "Video Compressor",
+    "description": "Reduce video file size without losing quality.",
+    "category": "Media",
+    "tags": ["video", "compressor", "optimizer"],
+    "icon": "📹",
+    "url": "https://example.com/video-compressor"
+  },
+  {
+    "name": "Screen Recorder",
+    "description": "Record your screen online with audio.",
+    "category": "Media",
+    "tags": ["screen", "recorder", "video"],
+    "icon": "⏺️",
+    "url": "https://example.com/screen-recorder"
+  },
+  {
+    "name": "Image Watermarker",
+    "description": "Add a watermark to your images.",
+    "category": "Media",
+    "tags": ["image", "watermark", "edit"],
+    "icon": "💧",
+    "url": "https://example.com/image-watermarker"
+  },
+  {
+    "name": "Slideshow Maker",
+    "description": "Create a slideshow from your photos.",
+    "category": "Media",
+    "tags": ["slideshow", "maker", "video"],
+    "icon": "🎞️",
+    "url": "https://example.com/slideshow-maker"
+  },
+  {
+    "name": "Audio Joiner",
+    "description": "Merge multiple audio files into one.",
+    "category": "Media",
+    "tags": ["audio", "joiner", "edit"],
+    "icon": "➕",
+    "url": "https://example.com/audio-joiner"
+  },
+  {
+    "name": "Image Color Picker",
+    "description": "Pick colors from any image.",
+    "category": "Media",
+    "tags": ["color", "picker", "image"],
+    "icon": "🎨",
+    "url": "https://example.com/image-color-picker"
+  },
+  {
+    "name": "Video to MP3 Converter",
+    "description": "Extract audio from video files.",
+    "category": "Media",
+    "tags": ["video-to-mp3", "converter", "audio"],
+    "icon": "🎵",
+    "url": "https://example.com/video-to-mp3-converter"
+  },
+  {
+    "name": "Image Flip",
+    "description": "Flip images horizontally or vertically.",
+    "category": "Media",
+    "tags": ["image", "flip", "edit"],
+    "icon": "↔️",
+    "url": "https://example.com/image-flip"
+  },
+  {
+    "name": "Video Speed Changer",
+    "description": "Speed up or slow down your videos.",
+    "category": "Media",
+    "tags": ["video", "speed", "edit"],
+    "icon": "⏩",
+    "url": "https://example.com/video-speed-changer"
+  },
+  {
+    "name": "Image to Base64",
+    "description": "Convert images to Base64 strings.",
+    "category": "Media",
+    "tags": ["image", "base64", "developer"],
+    "icon": "🔄",
+    "url": "https://example.com/image-to-base64"
+  },
+
+  /* ---------- UTILITIES TOOLS ---------- */
+  {
+    "name": "QR Code Generator",
+    "description": "Generate QR codes for URLs, text, and more.",
+    "category": "Utilities",
+    "tags": ["qr code", "generator", "utility"],
+    "icon": "📱",
+    "url": "https://example.com/qr-code-generator"
+  },
+  {
+    "name": "Password Generator",
+    "description": "Create strong, secure, and random passwords.",
+    "category": "Utilities",
+    "tags": ["password", "generator", "security"],
+    "icon": "🔑",
+    "url": "https://example.com/password-generator"
+  },
+  {
+    "name": "File Converter",
+    "description": "Convert files from one format to another.",
+    "category": "Utilities",
+    "tags": ["file", "converter", "utility"],
+    "icon": "🔄",
+    "url": "https://example.com/file-converter"
+  },
+  {
+    "name": "Time Zone Converter",
+    "description": "Convert time between different time zones.",
+    "category": "Utilities",
+    "tags": ["time zone", "converter", "utility"],
+    "icon": "🌍",
+    "url": "https://example.com/time-zone-converter"
+  },
+  {
+    "name": "Unit Converter",
+    "description": "Convert between different units of measurement.",
+    "category": "Utilities",
+    "tags": ["unit", "converter", "utility"],
+    "icon": "📏",
+    "url": "https://example.com/unit-converter"
+  },
+  {
+    "name": "Weather Forecast",
+    "description": "Get the latest weather forecast for any location.",
+    "category": "Utilities",
+    "tags": ["weather", "forecast", "utility"],
+    "icon": "☀️",
+    "url": "https://example.com/weather-forecast"
+  },
+  {
+    "name": "URL Shortener",
+    "description": "Shorten long URLs into a more manageable size.",
+    "category": "Utilities",
+    "tags": ["url", "shortener", "utility"],
+    "icon": "🔗",
+    "url": "https://example.com/url-shortener"
+  },
+  {
+    "name": "IP Address Lookup",
+    "description": "Find the location of any IP address.",
+    "category": "Utilities",
+    "tags": ["ip", "lookup", "networking"],
+    "icon": "🌐",
+    "url": "https://example.com/ip-address-lookup"
+  },
+  {
+    "name": "Notepad",
+    "description": "A simple online notepad to jot down notes.",
+    "category": "Utilities",
+    "tags": ["notepad", "notes", "utility"],
+    "icon": "📝",
+    "url": "https://example.com/notepad"
+  },
+  {
+    "name": "Calculator",
+    "description": "A simple online calculator for basic arithmetic.",
+    "category": "Utilities",
+    "tags": ["calculator", "math", "utility"],
+    "icon": "🧮",
+    "url": "https://example.com/calculator"
+  },
+  {
+    "name": "Stopwatch",
+    "description": "An online stopwatch to measure elapsed time.",
+    "category": "Utilities",
+    "tags": ["stopwatch", "time", "utility"],
+    "icon": "⏱️",
+    "url": "https://example.com/stopwatch"
+  },
+  {
+    "name": "Countdown Timer",
+    "description": "An online countdown timer.",
+    "category": "Utilities",
+    "tags": ["countdown", "timer", "utility"],
+    "icon": "⏲️",
+    "url": "https://example.com/countdown-timer"
+  },
+  {
+    "name": "Age Calculator",
+    "description": "Calculate your age in years, months, and days.",
+    "category": "Utilities",
+    "tags": ["age", "calculator", "utility"],
+    "icon": "🎂",
+    "url": "https://example.com/age-calculator"
+  },
+  {
+    "name": "Percentage Calculator",
+    "description": "Calculate percentages of numbers.",
+    "category": "Utilities",
+    "tags": ["percentage", "calculator", "math"],
+    "icon": "💯",
+    "url": "https://example.com/percentage-calculator"
+  },
+  {
+    "name": "Random Number Generator",
+    "description": "Generate random numbers within a range.",
+    "category": "Utilities",
+    "tags": ["random", "number", "generator"],
+    "icon": "🎲",
+    "url": "https://example.com/random-number-generator"
+  },
+  {
+    "name": "Color Picker",
+    "description": "Pick a color from a color wheel or enter a hex code.",
+    "category": "Utilities",
+    "tags": ["color", "picker", "design"],
+    "icon": "🎨",
+    "url": "https://example.com/color-picker"
+  },
+  {
+    "name": "BMI Calculator",
+    "description": "Calculate your Body Mass Index (BMI).",
+    "category": "Utilities",
+    "tags": ["bmi", "calculator", "health"],
+    "icon": "💪",
+    "url": "https://example.com/bmi-calculator"
+  },
+  {
+    "name": "Currency Converter",
+    "description": "Convert between different currencies.",
+    "category": "Utilities",
+    "tags": ["currency", "converter", "finance"],
+    "icon": "💰",
+    "url": "https://example.com/currency-converter"
+  },
+  {
+    "name": "World Clock",
+    "description": "View the current time in cities around the world.",
+    "category": "Utilities",
+    "tags": ["world clock", "time", "utility"],
+    "icon": "🌍",
+    "url": "https://example.com/world-clock"
+  },
+  {
+    "name": "Screen Ruler",
+    "description": "A virtual ruler to measure anything on your screen.",
+    "category": "Utilities",
+    "tags": ["ruler", "measure", "utility"],
+    "icon": "📏",
+    "url": "https://example.com/screen-ruler"
+  },
+  {
+    "name": "Barcode Generator",
+    "description": "Generate barcodes in various formats.",
+    "category": "Utilities",
+    "tags": ["barcode", "generator", "utility"],
+    "icon": "📊",
+    "url": "https://example.com/barcode-generator"
+  },
+  {
+    "name": "HTML Encoder/Decoder",
+    "description": "Encode or decode HTML entities.",
+    "category": "Utilities",
+    "tags": ["html", "encoder", "decoder"],
+    "icon": "💻",
+    "url": "https://example.com/html-encoder-decoder"
+  },
+  {
+    "name": "URL Encoder/Decoder",
+    "description": "Encode or decode URLs.",
+    "category": "Utilities",
+    "tags": ["url", "encoder", "decoder"],
+    "icon": "🔗",
+    "url": "https://example.com/url-encoder-decoder"
+  },
+  {
+    "name": "What Is My Screen Resolution",
+    "description": "Find out your current screen resolution.",
+    "category": "Utilities",
+    "tags": ["screen", "resolution", "utility"],
+    "icon": "🖥️",
+    "url": "https://example.com/what-is-my-screen-resolution"
+  },
+  {
+    "name": "Credit Card Validator",
+    "description": "Validate credit card numbers using the Luhn algorithm.",
+    "category": "Utilities",
+    "tags": ["credit card", "validator", "finance"],
+    "icon": "💳",
+    "url": "https://example.com/credit-card-validator"
+  },
+
+  /* ---------- FUN TOOLS ---------- */
+  {
+    "name": "Random Fact Generator",
+    "description": "Get a random interesting fact.",
+    "category": "Fun",
+    "tags": ["random", "fact", "fun"],
+    "icon": "🧠",
+    "url": "https://example.com/random-fact-generator"
+  },
+  {
+    "name": "Joke Generator",
+    "description": "Get a random joke to laugh at.",
+    "category": "Fun",
+    "tags": ["joke", "generator", "fun"],
+    "icon": "😂",
+    "url": "https://example.com/joke-generator"
+  },
+  {
+    "name": "This or That",
+    "description": "A simple game of 'This or That'.",
+    "category": "Fun",
+    "tags": ["this or that", "game", "fun"],
+    "icon": "🤔",
+    "url": "https://example.com/this-or-that"
+  },
+  {
+    "name": "Magic 8-Ball",
+    "description": "Ask the Magic 8-Ball a question.",
+    "category": "Fun",
+    "tags": ["magic 8-ball", "game", "fun"],
+    "icon": "🎱",
+    "url": "https://example.com/magic-8-ball"
+  },
+  {
+    "name": "Rock Paper Scissors",
+    "description": "Play a game of Rock Paper Scissors against the computer.",
+    "category": "Fun",
+    "tags": ["rock paper scissors", "game", "fun"],
+    "icon": "✊",
+    "url": "https://example.com/rock-paper-scissors"
+  },
+  {
+    "name": "Coin Flip",
+    "description": "Flip a coin to make a decision.",
+    "category": "Fun",
+    "tags": ["coin flip", "random", "fun"],
+    "icon": "🪙",
+    "url": "https://example.com/coin-flip"
+  },
+  {
+    "name": "Dice Roller",
+    "description": "Roll a dice for your games.",
+    "category": "Fun",
+    "tags": ["dice", "roller", "game"],
+    "icon": "🎲",
+    "url": "https://example.com/dice-roller"
+  },
+  {
+    "name": "Would You Rather",
+    "description": "A game of 'Would You Rather' questions.",
+    "category": "Fun",
+    "tags": ["would you rather", "game", "fun"],
+    "icon": "🤔",
+    "url": "https://example.com/would-you-rather"
+  },
+  {
+    "name": "Hangman",
+    "description": "Play a game of Hangman.",
+    "category": "Fun",
+    "tags": ["hangman", "game", "fun"],
+    "icon": "💀",
+    "url": "https://example.com/hangman"
+  },
+  {
+    "name": "Tic-Tac-Toe",
+    "description": "Play a game of Tic-Tac-Toe.",
+    "category": "Fun",
+    "tags": ["tic-tac-toe", "game", "fun"],
+    "icon": "⭕",
+    "url": "https://example.com/tic-tac-toe"
+  },
+  {
+    "name": "Minesweeper",
+    "description": "Play a game of Minesweeper.",
+    "category": "Fun",
+    "tags": ["minesweeper", "game", "fun"],
+    "icon": "💣",
+    "url": "https://example.com/minesweeper"
+  },
+  {
+    "name": "Snake Game",
+    "description": "Play the classic Snake game.",
+    "category": "Fun",
+    "tags": ["snake", "game", "fun"],
+    "icon": "🐍",
+    "url": "https://example.com/snake-game"
+  },
+  {
+    "name": "2048",
+    "description": "Play the 2048 puzzle game.",
+    "category": "Fun",
+    "tags": ["2048", "game", "fun"],
+    "icon": "🔢",
+    "url": "https://example.com/2048"
+  },
+  {
+    "name": "Sudoku",
+    "description": "Play a game of Sudoku.",
+    "category": "Fun",
+    "tags": ["sudoku", "game", "fun"],
+    "icon": "🧩",
+    "url": "https://example.com/sudoku"
+  },
+  {
+    "name": "Anagram Solver",
+    "description": "Solve anagrams and find hidden words.",
+    "category": "Fun",
+    "tags": ["anagram", "solver", "game"],
+    "icon": "🔄",
+    "url": "https://example.com/anagram-solver"
+  },
+  {
+    "name": "Word Scramble",
+    "description": "Unscramble letters to find the hidden word.",
+    "category": "Fun",
+    "tags": ["word scramble", "game", "fun"],
+    "icon": "🔀",
+    "url": "https://example.com/word-scramble"
+  },
+  {
+    "name": "Trivia Game",
+    "description": "Test your knowledge with a trivia game.",
+    "category": "Fun",
+    "tags": ["trivia", "game", "fun"],
+    "icon": "❓",
+    "url": "https://example.com/trivia-game"
+  },
+  {
+    "name": "Never Have I Ever",
+    "description": "A game of 'Never Have I Ever' questions.",
+    "category": "Fun",
+    "tags": ["never have i ever", "game", "fun"],
+    "icon": "🤫",
+    "url": "https://example.com/never-have-i-ever"
+  },
+  {
+    "name": "Truth or Dare",
+    "description": "A game of 'Truth or Dare' questions.",
+    "category": "Fun",
+    "tags": ["truth or dare", "game", "fun"],
+    "icon": "😈",
+    "url": "https://example.com/truth-or-dare"
+  },
+  {
+    "name": "Guess the Number",
+    "description": "Guess the number the computer is thinking of.",
+    "category": "Fun",
+    "tags": ["guess the number", "game", "fun"],
+    "icon": "🔢",
+    "url": "https://example.com/guess-the-number"
+  }
+]
